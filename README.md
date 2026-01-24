@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskeshavsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itskeshavsharma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itskeshavsharma" alt="itskeshavsharma" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=itskeshavsharma" alt="itskeshavsharma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/keshav_7167" target="blank"><img src="https://img.shields.io/twitter/follow/keshav_7167?logo=twitter&style=for-the-badge" alt="keshav_7167" /></a> </p>
 
