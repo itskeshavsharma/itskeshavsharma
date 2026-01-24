@@ -1,5 +1,5 @@
 <p align="center">
- 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
   <strong style="font-size: 24px;">Hey, I’m <b>Keshav Sharma</b>!</strong><br>
   <em>A passionate frontend developer from India</em>
 </p>
@@ -14,7 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskeshavsharma&label=Profile%20views&color=0e75b6&style=flat" alt="itskeshavsharma" /> </p>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=itskeshavsharma" alt="itskeshavsharma" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/keshav_7167" target="blank"><img src="https://img.shields.io/twitter/follow/keshav_7167?logo=twitter&style=for-the-badge" alt="keshav_7167" /></a> </p>
 
