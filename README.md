@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
+ 
   <strong style="font-size: 24px;">Hey, I’m <b>Keshav Sharma</b>!</strong><br>
   <em>A passionate frontend developer from India</em>
 </p>
