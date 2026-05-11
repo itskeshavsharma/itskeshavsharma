@@ -53,9 +53,8 @@
 ### ☕ Support
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/itskeshavsharma)
 
-
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskeshavsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=itskeshavsharma&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+  <img src="https://streak-stats.demolab.com?user=itskeshavsharma&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskeshavsharma&layout=compact&theme=tokyonight" height="160px"/>
 </div>
