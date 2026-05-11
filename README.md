@@ -1,5 +1,8 @@
-👋 Hey, I'm **Keshav Sharma**!  
-*A passionate developer from India*
+<p align="center">
+👋 Hey, I'm <b>Keshav Sharma</b>!<br>
+<em>A passionate developer from India</em>
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itskeshavsharma/itskeshavsharma/output/pacman-contribution-graph-dark.svg">
