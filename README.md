@@ -1,6 +1,12 @@
 👋 Hey, I'm **Keshav Sharma**!  
 *A passionate developer from India*
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itskeshavsharma/itskeshavsharma/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itskeshavsharma/itskeshavsharma/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/itskeshavsharma/itskeshavsharma/output/pacman-contribution-graph.svg">
+</picture>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=itskeshavsharma&label=Profile%20views&color=0e75b6&style=flat)
 [![Twitter Follow](https://img.shields.io/twitter/follow/keshav_7167?logo=twitter&style=for-the-badge)](https://twitter.com/keshav_7167)
 
@@ -46,3 +52,10 @@
 
 ### ☕ Support
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/itskeshavsharma)
+
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itskeshavsharma&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itskeshavsharma&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" height="160px"/>
+</div>
