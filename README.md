@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> 
-  <strong style="font-size: 24px;">Hey, I’m <b>Keshav Sharma</b>!</strong><br>
+  <strong style="font-size: 24px;">Hey, I'm <b>Keshav Sharma</b>!</strong><br>
   <em>A passionate frontend developer from India</em>
 </p>
 
@@ -17,19 +17,17 @@
 
 <p align="left"> <a href="https://twitter.com/keshav_7167" target="blank"><img src="https://img.shields.io/twitter/follow/keshav_7167?logo=twitter&style=for-the-badge" alt="keshav_7167" /></a> </p>
 
-- 🔭 I’m currently working on [**Decentralized Voting System** on blockchain](https://github.com/itskeshavsharma/Decentralised-voting-system-soroban)
+- 🔭 I'm currently working on [**Decentralized Voting System** on blockchain](https://github.com/itskeshavsharma/Decentralised-voting-system-soroban)
 
-- 🌱 I’m currently learning **React ⚛️, TailwindCSS 💨, Web3 🔗, and Firebase 🔥**
+- 🌱 I'm currently learning **React ⚛️, Data Analytics 📊, Machine Learning 🤖, and Data Science 🔬**
 
-- 👯 I’m looking to collaborate on **Exciting web or blockchain projects 🚀**
-
-- 🤝 I’m looking for help with **React + Smart Contracts (Solidity) stuff 💬**
+- 👯 I'm looking to collaborate on **Exciting Web, ML or Data Analytics projects 🚀**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itskeshavsharma](https://github.com/itskeshavsharma)
 
-- 💬 Ask me about **Frontend dev, React,and hackathons!**
-
 - 📫 How to reach me **keshavsharma7167@gmail.com**
+
+- 💬 Ask me about **Python, Flask, Machine Learning, Data Analytics and hackathons!**
 
 - ⚡ Fun fact **I think I'm funny... until my code breaks 😂**
 
