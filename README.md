@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/keshav_7167" target="blank"><img src="https://img.shields.io/twitter/follow/keshav_7167?logo=twitter&style=for-the-badge" alt="keshav_7167" /></a> </p>
 
-- 🔭 I'm currently working on [**Decentralized Voting System** on blockchain](https://github.com/itskeshavsharma/Decentralised-voting-system-soroban)
+- 🔭 I'm currently working on [**InboxIQ - AI Powered SMS Spam Detector**](https://github.com/itskeshavsharma/InboxIQ)
 
 - 🌱 I'm currently learning **React ⚛️, Data Analytics 📊, Machine Learning 🤖, and Data Science 🔬**
 
@@ -27,9 +27,10 @@
 
 - 📫 How to reach me **keshavsharma7167@gmail.com**
 
-- 💬 Ask me about **Python, Flask, Machine Learning, Data Analytics and hackathons!**
+- 💬 Ask me about **Python, Machine Learning, Data Analytics and hackathons!**
 
-- ⚡ Fun fact **I think I'm funny... until my code breaks 😂**
+- ⚡ **Every expert was once a beginner — I'm just enjoying the journey** 🚀
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
